@@ -3,7 +3,7 @@ using System;
 namespace TC4__Fundamentos.P.O
 {
 
-    class Materia
+    public class Materia
     {
 
         public string nombreMateria;
